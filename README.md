@@ -1,2 +1,2 @@
 # hack-vetros
-CBP23 - Toys &amp; Games , Challenges your creative minds to conceptualize and develop unique toys and games. Our ideas create a interactive website where the users can view and select there favorite objects and purchase them, we want to make a user friendly website so that it would be easy for the users to use and to add many payment modes.
+CBP23 - Toys &amp; Games ,Our goal is to create a creative and user-friendly toys and sports website to ensure seamless navigation for our users. We plan to expand our product range, offer multiple payment options, provide worldwide delivery services, and incorporate a feedback feature to tailor our website to meet the needs of our users effectively.
